@@ -32,14 +32,14 @@ banner() {
 
 echo ""
 
-echo -e "\e[1;91m ♡♡♡\e[1;92m■■■ ■♡♡♡\e[1;91m《  》\e[1;92m▪︎▪︎▪︎ □♡♡♤☆☆☆ Rycoder_1"
-echo -e "\e[1;91m  ♡ \e[1;92m■ ■ ■♡   \e[1;91m《  》\e[1;92m▪︎ ▪︎ □♡♡     Rycoder_1 "
-echo -e "\e[1;91m  ♡ \e[1;92m■ ■ ■♡♡♡♡\e[1;91m《  》\e[1;92m▪︎ ▪︎ □◇◇◇ Rycoder_1 "
-echo -e "\e[1;91m  ♡ \e[1;92m■ ■■■◇◇◇◇\e[1;91m《  》\e[1;92m▪︎ ▪︎▪︎▪︎□  Řýčœđəř"
-echo -e "\e[1;91m ♡♡♡\e[1;92m         \e[1;91m☆☆☆☆"
+echo -e "\e[1;93m 《《《《《《《INSTAGRAM UNFOLLOWER》》》》》》 "
+echo -e "\e[1;92m  Instagram  ;  Rycoder_1 "
+echo -e "\e[1;91m Follow me ; Rycoder_2   "
+echo -e "\e[1;93m Youtube ; Rycoder_1 "
+echo -e "\e[1;95m Git hub ; https://github.com/Rycoder1"
 
-echo "[+] Githu: git clone https://github.com/Rycoder1"
-echo -e "\e[1;91m [+] YouTube: \e[1;92m Rycoder_1"
+echo "[+] Team 《Cyber-D Team》 "
+echo -e "\e[1;91m [+] code by : \e[1;92m Rycoder"
 echo -e "\e[1;91m [+] Instagram: \e[1;92m Rycoder_1 \e[1;97m"
 echo "[+] All the best all friends"
 
