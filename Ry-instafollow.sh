@@ -38,12 +38,12 @@ banner() {
 
 echo ""
 
-echo -e "\e[1;91m《《《《《《《Instagram free followers》》》》》》》"
-echo -e "\e[1;91m□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ "
+echo -e "\e[1;93m《《《《《《《Instagram free followers》》》》》》》"
+echo -e "\e[1;92m□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□ "
 echo -e "\e[1;91mFollow  》   Rycoder_2"
 echo -e "\e[1;91mYoutube  》  Rycoder_1"
 echo -e "\e[1;91mGit hub 》https://github.com/Rycoder1 "
-echo -e "\e[1;91m Follow me Instagram : Rycoder_1 "
+echo -e "\e[1;94m Follow me Instagram : Rycoder_1 "
 }
 
 login_user() {
