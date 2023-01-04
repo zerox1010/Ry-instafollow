@@ -38,10 +38,10 @@ echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m║  ║\e[1;92m�
 echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║  ║\e[1;92m┘ └─┘└   └──┘┴──┘┴──┘└──┘└─┴─┘"
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╚══╝"
 
-echo "\e[1;91m [+] Githu: git clone https://github.com/Rycoder1"
+echo "[+] Githu: git clone https://github.com/Rycoder1"
 echo -e "\e[1;91m [+] YouTube: \e[1;92m Rycoder_1"
 echo -e "\e[1;91m [+] Instagram: \e[1;92m Rycoder_1 \e[1;97m"
-echo "\e[1;91m [+] All the best all friends"
+echo "[+] All the best all friends"
 
 }     
 
