@@ -45,7 +45,6 @@ echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m�
 echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩   by - \e[1;92mTermux Rycoder_1 "
 echo -e "\e[1;91m Follow me Instagram : Rycoder_1 "
 echo -e "\e[1;92m Youtube: Rycoder_1 
-
 }
 
 login_user() {
