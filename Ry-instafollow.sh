@@ -38,11 +38,11 @@ banner() {
 
 echo ""
 
-echo -e "\e[1;91m ═╦═\e[1;92m┌─┐ ┌┌──┐\e[1;91m╔══╗\e[1;92m┌──┐┬   ┬   ┌──┐┬ ┬ ┬"
-echo -e "\e[1;91m  ║ \e[1;92m│ │ ││   \e[1;91m║   \e[1;92m│  ││   │   │  ││ │ │"
-echo -e "\e[1;91m  ║ \e[1;92m│ │ │└──┐\e[1;91m╠═╣ \e[1;92m│  ││   │   │  ││ │ │"
-echo -e "\e[1;91m  ║ \e[1;92m┘ └─┘└──┘\e[1;91m║   \e[1;92m└──┘┴──┘┴──┘└──┘└─┴─┘"
-echo -e "\e[1;91m ═╩═\e[1;92m         \e[1;91m╩   by - \e[1;92mRycoder_1 "
+echo -e "\e[1;91m♡♡♡♡\e[1;92m♡♡♡ ♡♡♡♡\e[1;91m♡♡♡♡\e[1;92m■ Instagram free followers"
+echo -e "\e[1;91m  ♡ \e[1;92m♡ ♡ ♡♡  \e[1;91m♤ \e[1;92m♡  ♡ Rycoder_1 "
+echo -e "\e[1;91m  ♡ \e[1;92m♡ ♡ ♡♡♡♡♡\e[1;91m♡♡♡ \e[1;92m■  Rycoder_1"
+echo -e "\e[1;91m  ♡ \e[1;92m♡ ♡♡♡\e[1;91m♡   \e[1;92m◇◇◇◇《》♡♡♡♡♡♡♡♡"
+echo -e "\e[1;91m ♡♡♡\e[1;92m         \e[1;91m ♡   by - \e[1;92mRycoder_1 "
 echo -e "\e[1;91m Follow me Instagram : Rycoder_1 "
 }
 
